@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: #ffffff;
+}
+.header{
+    height: 65px;
+}
+.header__logo img{
+    margin-left: 107px;
+}
+.header__menu{
+    padding-top: 26px;
+}
+.header__menu a{
+    color: #111111;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    margin-left: 40px;
+    font-style: normal;
+    letter-spacing: 1.5px;
+    text-decoration: none;
+}

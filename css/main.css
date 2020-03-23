@@ -45,12 +45,62 @@ body{
     text-decoration: none;
     padding-left: 30px;
 }
-.carousel-item{
-    height: 700px;
-}
 .strelka{
     background: #ffffff;
     padding: 10px 15px 10px 15px;
     border-radius: 30px;
 }
-
+.works__cart{
+    text-align: center;
+    margin-top: 130px;
+}
+.title h1{
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 61px;
+    padding-top: 51px;
+    margin-left: 100px;
+}
+.title hr{
+    width: 120px;
+    background: #111111;
+    margin-top: 27px;
+}
+.works__cart h5{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    padding-top: 30px;
+    padding-bottom: 24px;
+}
+.works__btn {
+     text-align: center;
+     margin-top: 81px;
+     margin-bottom: 40px;
+}
+.works__btn a{
+    background: #E77E83;
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-right: 60px;
+    padding-bottom: 20px;
+    border-radius: 36px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+}
+.title__btn h1{
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 61px;
+    padding-top: 51px;
+    margin-left: 100px;
+}
+.title__btn hr{
+    width: 120px;
+    background: #111111;
+    margin-top: 27px;
+}

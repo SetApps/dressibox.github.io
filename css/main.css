@@ -45,6 +45,53 @@ body{
     text-decoration: none;
     padding-left: 30px;
 }
+.carousel-inner{
+    height: 700px;
+}
+.content{
+    float: right;
+    margin-top:-450px;
+    width: 500px;
+    text-align: left;
+    margin-right: -80px;
+
+}
+.content h1 {
+    font-weight: 300;
+    font-size: 110px;
+    line-height: 100px;  
+}
+.content h3{
+    font-weight: 300;
+    font-size: 40px;
+    text-align: left;
+    padding-top: 15px;
+    margin-left: 10px;
+}
+.content p{
+    margin-left: 10px;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 30px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+.content a{
+    margin-left: 10px;
+    background: #ffffff;
+    color: #111111;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-right: 60px;
+    padding-bottom: 20px;
+    border-radius: 36px;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+}
 .strelka{
     background: #ffffff;
     padding: 10px 15px 10px 15px;
@@ -52,7 +99,7 @@ body{
 }
 .works__cart{
     text-align: center;
-    margin-top: 130px;
+    margin-top: 100px;
 }
 .title h1{
     font-weight: 300;
@@ -64,7 +111,7 @@ body{
 .title hr{
     width: 120px;
     background: #111111;
-    margin-top: 27px;
+    margin-top: 10px;
 }
 .works__cart h5{
     font-weight: 600;
@@ -92,6 +139,9 @@ body{
     font-size: 12px;
     line-height: 15px;
 }
+.styles{
+    margin-bottom: 51px;
+}
 .title__btn h1{
     font-weight: 300;
     font-size: 50px;
@@ -103,4 +153,70 @@ body{
     width: 120px;
     background: #111111;
     margin-top: 27px;
+}
+.btn__all{
+    float: right;
+    margin-right: 100px;
+    margin-top: 71px;
+}
+.btn__all a{
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #111111;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #111111;
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    border-radius: 36px;
+}
+.sub__title h3{
+    padding-top: 31px;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 90px;
+}
+.benefits__cart{
+    text-align: center;
+}
+.benefits__cart h3{
+    padding-top: 53px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+}
+.slaider{
+    text-align: center;
+}
+.item{
+    display:inline-block;
+    padding: 10px;
+}
+.prew{
+    padding-top: 10px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 10px;
+    border-radius: 50px;
+    border: 1px solid #111111;
+}
+.next {
+    padding-top: 10px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 10px;
+    border-radius: 50px;
+    border: 1px solid #111111;
+}
+.inst__taitle {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+.inst__taitle h3{
+    font-size: 30px;
+     line-height: 150%;
 }
